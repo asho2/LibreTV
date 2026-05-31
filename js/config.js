@@ -43,7 +43,7 @@ const API_SITES = {
         name: '量子资源',
     },
     kuaikan: {
-        api: 'https://kuaiканapi.com/api.php/provide/vod',
+        api: 'https://kuaiakanapi.com/api.php/provide/vod',
         name: '快看资源',
     },
     subo: {
